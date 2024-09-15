@@ -7,6 +7,11 @@ body {
   font-family: 'ss';
   color: white;
 }
+.s {
+  font-family: 'ss';
+  color: white;
+  font-size: 20px;
+}
 .s a {
   TEXT-DECORATION: none;
   transition-duration: 0.3s;
