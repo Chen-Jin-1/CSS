@@ -8,16 +8,19 @@ body {
   color: white;
 }
 .s {
-  font-family: 'ss';
+  color: white;
+  font-size: 20px;
+}
+.b {
   color: white;
   font-size: 20px;
 }
 .s a {
-  TEXT-DECORATION: none;
+  text-decoration: none;
   transition-duration: 0.3s;
 }
 .s a:hover {
-  color: gray;
+  text-decoration: underline;
 }
 .b {
   position: absolute;
