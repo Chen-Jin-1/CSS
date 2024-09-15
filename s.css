@@ -25,6 +25,7 @@ body {
 }
 .b {
   position: absolute;
+  text-align: right;
   bottom: 0px; 
   right: 0px;
 }
