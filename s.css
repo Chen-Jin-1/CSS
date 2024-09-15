@@ -20,7 +20,7 @@ body {
   transition-duration: 0.3s;
 }
 .s a:hover {
-  text-decoration: underline;
+  color: gray;
 }
 .b {
   position: absolute;
@@ -28,7 +28,7 @@ body {
   right: 0px;
 }
 .b a {
-  TEXT-DECORATION: none;
+  text-decoration: none;
   transition-duration: 0.3s;
 }
 .b a:hover {
