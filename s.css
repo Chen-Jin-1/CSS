@@ -16,6 +16,7 @@ body {
   font-size: 20px;
 }
 .s a {
+  color: white;
   text-decoration: none;
   transition-duration: 0.3s;
 }
