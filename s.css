@@ -7,6 +7,12 @@ body {
   font-family: 'ss';
   color: white;
 }
+.hr {
+  height: 2px;
+  border-width: 0px;
+  color: gray;
+  background-color: gray;
+}
 .s {
   color: white;
   font-size: 20px;
